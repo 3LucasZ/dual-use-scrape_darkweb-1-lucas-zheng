@@ -1,8 +1,8 @@
 # dual-use-scrape_darkweb-1-lucas-zheng
 
-- Install and Configure Tor and set Up Proxy Configuration
-- Make a Request to the .onion Site
-- Parse the HTML Content
+- (OK) Install and Configure Tor and set Up Proxy Configuration
+- (OK) Make a Request to the .onion Site
+- (OK) Parse the HTML Content
 - Implement content filtering to filter for pages mentioning desired strings
 - Implement extraction for data types requested
 - Save the results in an easily scalable format
